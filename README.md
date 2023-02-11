@@ -1,3 +1,3 @@
 # Code Animation with Motion Canvas
 
-[![component.mp4](https://github.com/ahmadrosid/code-animation-example/raw/main/component.mp4)](https://github.com/ahmadrosid/code-animation-example/raw/main/component.mp4)
+https://user-images.githubusercontent.com/29406408/218256513-f2e88c39-e20d-472d-9fdb-679efb4f93d2.mp4
